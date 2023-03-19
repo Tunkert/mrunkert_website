@@ -28,6 +28,9 @@
 	            	<li class="nav-item">
 	            		<a class="nav-link" href="sat.php">SAT</a>
 	         		</li>
+	         		<li class="nav-item">
+	         			<a class="nav-link" href="web-development.php">Web Development</a>
+	         		</li>
 	      		</ul>
 	    	</div>
 		</div>

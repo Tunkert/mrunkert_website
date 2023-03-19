@@ -6,3 +6,11 @@
 .card:hover {
 	box-shadow: 2px 3px 3px 2px #333;
 }
+
+code {
+	background-color: #2d2d2d;
+	display: block;
+	color: whitesmoke;
+	padding: 20px;
+	width: 100%;
+}
