@@ -14,3 +14,19 @@ code {
 	padding: 20px;
 	width: 100%;
 }
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
+.overline {
+	text-decoration: overline;
+}
+
+.strikethrough {
+	text-decoration: line-through;
+}

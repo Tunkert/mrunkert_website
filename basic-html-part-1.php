@@ -22,6 +22,7 @@ $description = "In this article you'll learn about basic HTML tags.";
 								<li><a href="#anchor-tags">Linking in HTML</a></li>
 								<li><a href="#images">Images in HTML</a></li>
 								<li><a href="#conclusion">Conclusion</a></li>
+								<li><a href="#resources">Online Resources</a></li>
 							</ul>
 						</section>
 						<p>In this article we'll cover the basics of HTML, let's first talk about HTML boilerplate.</p>
@@ -128,6 +129,14 @@ $description = "In this article you'll learn about basic HTML tags.";
 						<section id="conclusion">
 							<h2>Conclusion</h2>
 							<p>With these html tags you should be able to start building a basic HTML site. Here is <a href="https://youtu.be/bGZnhErzUBk" target="_blank">a code-along on YouTube where you can build an about page project with me for more practice!</a> Thanks for reading!</p>
+						</section>
+						<section id="resources">
+							<h2>Resources</h2>
+							<p>Want some cool online development environments? Here are a couple of good online resources to write code in!</p>
+							<ul>
+								<li><a href="https://vscode.dev" target="_blank">VSCode.dev</a></li>
+								<li><a href="https://codepen.io" target="_blank">Codepen.io</a></li>
+							</ul>
 						</section>
 					</div>
 				</div>
