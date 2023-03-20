@@ -31,6 +31,9 @@
 	         		<li class="nav-item">
 	         			<a class="nav-link" href="web-development.php">Web Development</a>
 	         		</li>
+	         		<li class="nav-item">
+	         			<a class="nav-link" href="https://www.youtube.com/channel/UCLs3nR6rrRoyr8eXyOPyfmw" target="_blank">YouTube</a>
+	         		</li>
 	      		</ul>
 	    	</div>
 		</div>
