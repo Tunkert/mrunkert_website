@@ -113,4 +113,4 @@ $description = "In this post you'll learn about inverse variation LIKE A BOSS.";
     </article>
 </main>
 
-<?php include "includes/footer.php; ?>
+<?php include "includes/footer.php"; ?>
