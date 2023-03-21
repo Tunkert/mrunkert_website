@@ -14,6 +14,7 @@ $description = "Learn about web development LIKE A BOSS from a guy with a BEARD.
 				<h1>Latest Web Development Posts</h1>
 				<ul>
 					<li><a href="basic-html-part-1.php">Basic HTML Part 1</a></li>
+					<li><a href="https://youtu.be/bGZnhErzUBk" target="_blank">YouTube - 1990's about page code-along</a></li>
 				</ul>
 			</div>
 		</div>
