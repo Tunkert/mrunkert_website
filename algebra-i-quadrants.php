@@ -8,7 +8,7 @@ $description = "In this post you'll learn all you need to know about the Quadran
 
 <main>
     <article>
-        <div class="container">
+        <div class="container mt-5 mb-5">
             <div class="row">
                 <div class="col-12">
                     <h1>The Quadrants of the Coordinate Plane</h1>

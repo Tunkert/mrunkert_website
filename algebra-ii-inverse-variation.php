@@ -11,7 +11,7 @@ $description = "In this post you'll learn about inverse variation LIKE A BOSS.";
     <article>
         <div class="container">
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 mt-5 mb-5">
                     <h1>Inverse Variation</h1>
                     <p>Inverse variation is a proportional relationship where one value increases as the other value decreases. A generic equation that represents inverse variation as y = <sup>k</sup>/<sub>x</sub>. </p>
                     <p>Let's look at some examples:</p>
@@ -27,7 +27,7 @@ $description = "In this post you'll learn about inverse variation LIKE A BOSS.";
                         <h3>Solution</h3>
                         <p>In this case d is the correct solution as when b increases a will decrease.</p>
                         <p>A table will help us visualize this:</p>
-                        <table class="table">
+                        <table class="table table-striped">
                             <tr>
                                 <th>a</th>
                                 <th>b</th>
@@ -72,7 +72,7 @@ $description = "In this post you'll learn about inverse variation LIKE A BOSS.";
                         </ul>
                         <h3>Solution</h3>
                         <p>xy = 2 is our example of inverse variation here. Let's make a table to demonstrate.</p>
-                        <table class="table">
+                        <table class="table table-striped">
                             <tr>
                                 <th>x</th>
                                 <th>y</th>
