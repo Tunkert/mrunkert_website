@@ -27,7 +27,7 @@ $description = "In this post you'll learn about inverse variation LIKE A BOSS.";
                         <h3>Solution</h3>
                         <p>In this case d is the correct solution as when b increases a will decrease.</p>
                         <p>A table will help us visualize this:</p>
-                        <table border="1" cellpadding="10" cellspacing="0">
+                        <table class="table">
                             <tr>
                                 <th>a</th>
                                 <th>b</th>
@@ -72,7 +72,7 @@ $description = "In this post you'll learn about inverse variation LIKE A BOSS.";
                         </ul>
                         <h3>Solution</h3>
                         <p>xy = 2 is our example of inverse variation here. Let's make a table to demonstrate.</p>
-                        <table border="1" cellpadding="10" cellspacing="0">
+                        <table class="table">
                             <tr>
                                 <th>x</th>
                                 <th>y</th>
