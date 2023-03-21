@@ -14,6 +14,31 @@ $description = "This is the homepage for UpSlopeMath.com - learn all types of ma
 				<p>UpSlopeMath.com has had a revamp for Octer 7/8! We'll still have assignments online as before, but I've updated the site to clean it up a little bit!</p>
 			</div>
 		</div>
+<!--		Day 2 -->
+		<h2 class="text-center">Day 2 Octer 7/8</h2>
+		<div class="row mt-3 mb-3">
+			<div class="col-md-5 offset-md-1">
+				<div class="card" style="width: 24rem;">
+				    <img src="images/student-learning-1.jpg" class="card-img-top" alt="a student learning">
+				    <div class="card-body">
+				        <h5 class="card-title">Algebra I Day 2 Lesson (Octer 7/8)</h5>
+				    	<p class="card-text">Learn the Quadrants! LIKE A BOSS.</p>
+				    	<a href="algebra-i-quadrants.php" class="btn btn-primary">Go to lesson!</a>
+				    </div>
+				</div>
+			</div>
+			<div class="col-md-5">
+				<div class="card" style="width: 24rem;">
+				    <img src="images/students-graduating.jpg" class="card-img-top" alt="a student learning">
+				    <div class="card-body">
+				    	<h5 class="card-title">Algebra II Day 2 Lesson (Octer 7/8)</h5>
+				    	<p class="card-text">Learn what inverse variation is and how to use it! LIKE A BOSS.</p>
+				    	<a href="algebra-ii-inverse-variation.php" class="btn btn-primary">Go to lesson!</a>
+				    </div>
+				</div>
+			</div>
+		</div>
+<!--		Day 1 -->
 		<h2 class="text-center">Day 1 Octer 7/8</h2>
 		<div class="row mt-3 mb-3">
 			<div class="col-md-5 offset-md-1">
