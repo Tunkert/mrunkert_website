@@ -30,3 +30,7 @@ code {
 .strikethrough {
 	text-decoration: line-through;
 }
+
+.lower-alpha {
+	list-style: lower-alpha;
+}
